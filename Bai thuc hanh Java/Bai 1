@@ -3,15 +3,15 @@ public class Giaiphuongtrinhbac1 {
     public static void main(String[]args) {
         double a,b,x;
         Scanner sc = new Scanner(System.in);
-        System.out.print("Nhap a =");
+        System.out.print("Nhap a = ");
         a = sc.nextDouble();
-        System.out.print("Nhap b =");
+        System.out.print("Nhap b = ");
         b = SC.nextDouble();
-        If(a ==0) {
-            System.out.println("Khong phai phuong tirnh bac nhat");
+        If (a == 0) {
+            System.out.println("Khong phai phuong trinh bac nhat");
         } else { 
             x =-b/a;
-            System.out.print("Phuong trinh co nghiem  x = "+x);
+            System.out.print("Phuong trinh co nghiem  x = " + x);
         }
     }
 }
