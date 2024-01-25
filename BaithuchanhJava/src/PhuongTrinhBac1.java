@@ -6,7 +6,7 @@ public class Giaiphuongtrinhbac1 {
         System.out.print("Nhap a = ");
         a = sc.nextDouble();
         System.out.print("Nhap b = ");
-        b = SC.nextDouble();
+        b = sc.nextDouble();
         If (a == 0) {
             System.out.println("Khong phai phuong trinh bac nhat");
         } else { 
