@@ -10,7 +10,6 @@ public class Giaiphuongtrinhbac1 {
         System.out.print("Nhap b = ");
         b = sc.nextDouble();
 
-        // Corrected the capitalization of 'If' to 'if'
         if (a == 0) {
             System.out.println("Khong phai phuong trinh bac nhat");
         } else {
